@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World 👋 I'm Pete 
 
-<!--
-**pete-hamrick/pete-hamrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He/him pronouns
+I am a Full Stack Software Developer enthusiastic about building accessible and useful technology! My background working on and running vegetable farms help me plan for long term production, but givse me the flexibility to respond to urgent issues quickly and calmly. I thrive in team settings working towards a common goal all while having fun. 
 
-Here are some ideas to get you started:
+### Tech Stack:
+* Languages: JavaScript, HTML, CSS
+* Frameworks/Libraries: React, Node, Express, ChartJS
+* Database: PostgreSQL
+* Tools: Git/GitHub, Postman, Beekeper Studio, Netlify, Heroku, VSCode, Slack, Zoom, CLI
+* Dev Practices: TDD(Jest, Supertest), Agile, Mob and Pair programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Get In Touch:
