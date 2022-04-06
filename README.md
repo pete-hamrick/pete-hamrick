@@ -10,4 +10,3 @@ I am a Full Stack Software Developer enthusiastic about building accessible and 
 * Tools: Git/GitHub, Postman, Beekeper Studio, Netlify, Heroku, VSCode, Slack, Zoom, CLI
 * Dev Practices: TDD(Jest, Supertest), Agile, Mob and Pair programming
 
-### 💬 Get In Touch:
